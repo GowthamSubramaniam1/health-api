@@ -292,4 +292,3 @@ Implement the necessary changes while preserving existing application functional
 After implementing the changes, build and test the Docker deployment against the validation requirements above.
 
 The final deployment must be deterministic, resilient, secure, and suitable for production use.
-Git diff practice
